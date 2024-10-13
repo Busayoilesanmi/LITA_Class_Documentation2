@@ -10,51 +10,51 @@ By carefully analyzing the data, the goal is to gather actionable insights that 
 
 ### Data Description
 _ _ _
-* Region: Indicates the geographical area where the sales or services occurred.
+1. Region: Indicates the geographical area where the sales or services occurred.
 
-* Market: Refers to the specific market or location within the region where the transactions took place.
+2. Market: Refers to the specific market or location within the region where the transactions took place.
 
-* Store: Represents the specific store or outlet where the sales occurred.
+3. Store: Represents the specific store or outlet where the sales occurred.
 
-* Trade Date: The date when the transaction took place.
+4. Trade Date: The date when the transaction took place.
 
-* Fiscal Period: Represents the accounting period for the transaction.
+5. Fiscal Period: Represents the accounting period for the transaction.
 
-* Model: Refers to the specific product model being sold.
+6. Model: Refers to the specific product model being sold.
 
-* Line Of Business: Indicates the category or type of business activity related to the sale.
+7. Line Of Business: Indicates the category or type of business activity related to the sale.
 
-* Day Category: Categorizes the day of the transaction, possibly indicating weekdays, weekends, or other relevant categories.
+8. Day Category: Categorizes the day of the transaction, possibly indicating weekdays, weekends, or other relevant categories.
 
-* Revenue: The total income generated from the sale of products or services.
+9. Revenue: The total income generated from the sale of products or services.
 
-* Units Sold: The quantity of products sold in the transaction.
+10. Units Sold: The quantity of products sold in the transaction.
  
-* Transaction category: classify transactions based on various attributes, such as product type, service provided, customer segment, or sales channel (such as online or in-store)
+11. Transaction category: classify transactions based on various attributes, such as product type, service provided, customer segment, or sales channel (such as online or in-store)
     
 ### Project Objectives
 _ _ _
 This project aims to achieve the following analysis goals:
 
-1. Revenue by Region: This analyzes the total revenue generated from sales in different geographical regions.
+* Revenue by Region: This analyzes the total revenue generated from sales in different geographical regions.
   
-2. Revenue by Units Sold: This determine the total revenue from number of units sold for each product over a specific period.
+* Revenue by Units Sold: This determine the total revenue from number of units sold for each product over a specific period.
 
-3. Revenue by Market: This analysis looks at revenue generated from different market segments.
+* Revenue by Market: This analysis looks at revenue generated from different market segments.
 
-4. Revenue by Model: This focuses on the revenue generated from different product models (e.g various versions of a product).
+* Revenue by Model: This focuses on the revenue generated from different product models (e.g various versions of a product).
 
-5. Revenue by Store: This aspect evaluates the revenue generated at each individual store or retail outlet.
+* Revenue by Store: This aspect evaluates the revenue generated at each individual store or retail outlet.
 
-6. Revenue by Line of Business: This analysis categorizes revenue based on different lines of business (e.g services, product sales).
+* Revenue by Line of Business: This analysis categorizes revenue based on different lines of business (e.g services, product sales).
    
-7. Region by Units Sold: This analysis examines the number of units sold across different geographical regions (e.g states, countries, or specific areas).
+* Region by Units Sold: This analysis examines the number of units sold across different geographical regions (e.g states, countries, or specific areas).
    
-8. Region by Average Revenue: This is the revenue generated per unit sold in a specific region.
+* Region by Average Revenue: This is the revenue generated per unit sold in a specific region.
 
-9. Store by Units Sold: This analysis evaluates the total number of units sold at each individual store or retail outlet.
+* Store by Units Sold: This analysis evaluates the total number of units sold at each individual store or retail outlet.
 
-10. Day Category by Units Sold: This analysis examines the number of units sold categorized by different types of days (e.g., weekdays, weekends, holidays).
+* Day Category by Units Sold: This analysis examines the number of units sold categorized by different types of days (e.g., weekdays, weekends, holidays).
 
 ### Key Metrics
 _ _ _
@@ -77,7 +77,25 @@ _ _ _
 - Day Category: Different type of days by unit Sold
 
 ### How to Use the Data
-_ _ _
+* Revenue by Region: Group the data by region and sum the revenue column. This provide an overview of how much revenue each region is generating
 
+* Revenue by Units Sold: Group the data by Product and sum the units Sold columns. This determines the total revenue generated from the number of units sold for each product over a period.
+
+* Revenue by Market: Group the data by Market Segment and sum the Revenue column. This analysis looks at the revenue generated from different market segments.
+
+* Revenue by Model: Group the data by Product Model and sum the Revenue column. This focuses on the revenue generated from different product models (e.g., various versions of a product).
+
+* Revenue by Store: Group the data by Store and sum the Revenue column. This aspect evaluates the revenue generated at each individual store or retail outlet.
+
+* Revenue by Line of Business: Group the data by Line of Business and sum the Revenue column. This analysis categorizes revenue based on different lines of business (e.g., services, product sales).
+
+* Region by Units Sold: Group the data by Region and sum the Units Sold column. This analysis examines the number of units sold across different geographical regions (e.g., states, countries, or specific areas).
+
+* Region by Average Revenue: Group the data by Region and calculate the average of the Revenue column. This calculates the revenue generated per unit sold in a specific region.
+
+* Store by Units Sold: Group the data by Store and sum the Units Sold column. This analysis evaluates the total number of units sold at each individual store or retail outlet.
+
+* Day Category by Units Sold: Group the data by Day Category (e.g., Weekdays, Weekends) and sum the Units Sold column. This analysis examines the number of units sold categorized by different types of days.
+_ _ _
 
 ### Tools and Methods Used
