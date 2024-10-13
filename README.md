@@ -58,6 +58,26 @@ This project aims to achieve the following analysis goals:
 
 ### Key Metrics
 _ _ _
-~Revenue: Sum of revenue column, grouped by region 
+- Revenue: Sum of revenue column, grouped by region.
+  
+- Units Sold: Sum of units sold, grouped by revenue.
 
-United 
+- Market: Market segment by sum of revenue.
+
+- Model: Product model by sum of revenue
+
+- Store: Individual store or retail outlet by sum of revenue.
+
+- Line of Business: Different line of business by sum of revenue.
+
+- Region: Gegraphical region by sum of units sold.
+
+- Average Revenue: it is calculated as Total revenue divided by total units sold in the region. 
+
+- Day Category: Different type of days by unit Sold
+
+### How to Use the Data
+_ _ _
+
+
+### Tools and Methods Used
