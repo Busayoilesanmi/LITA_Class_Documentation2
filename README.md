@@ -96,6 +96,21 @@ _ _ _
 * Store by Units Sold: Group the data by Store and sum the Units Sold column. This analysis evaluates the total number of units sold at each individual store or retail outlet.
 
 * Day Category by Units Sold: Group the data by Day Category (e.g., Weekdays, Weekends) and sum the Units Sold column. This analysis examines the number of units sold categorized by different types of days.
+
+### Formula Used
 _ _ _
+Average Revenue = Total revenue/units sold. 
 
 ### Tools and Methods Used
+_ _ _
+- Data Analysis: This data was analyzed using Microsoft Excel, Utilizing Pivot Tables to organize, summarize  and filter the data for easier interpretation
+
+- Data Visualization: Bar charts, Pie chart, line chart were created in Excel to visually represent the key insights.
+
+### Visual Analysis and Inference 
+_ _ _
+#### 1. Revenue by Region
+- - -
+##### Pivotal Table:
+
+
