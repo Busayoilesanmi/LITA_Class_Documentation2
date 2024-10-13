@@ -112,5 +112,6 @@ _ _ _
 #### 1. Revenue by Region
 - - -
 ##### Pivotal Table:
+[image](https://github.com/user-attachments/assets/296a5c35-436d-48ec-b736-1f91a7fb1904)
 
 
