@@ -10,27 +10,27 @@ By carefully analyzing the data, the goal is to gather actionable insights that 
 
 ### Data Description
 _ _ _
-1. Region: Indicates the geographical area where the sales or services occurred.
+* Region: Indicates the geographical area where the sales or services occurred.
 
-2. Market: Refers to the specific market or location within the region where the transactions took place.
+* Market: Refers to the specific market or location within the region where the transactions took place.
 
-3. Store: Represents the specific store or outlet where the sales occurred.
+* Store: Represents the specific store or outlet where the sales occurred.
 
-4. Trade Date: The date when the transaction took place.
+* Trade Date: The date when the transaction took place.
 
-5. Fiscal Period: Represents the accounting period for the transaction.
+* Fiscal Period: Represents the accounting period for the transaction.
 
-6. Model: Refers to the specific product model being sold.
+* Model: Refers to the specific product model being sold.
 
-7. Line Of Business: Indicates the category or type of business activity related to the sale.
+* Line Of Business: Indicates the category or type of business activity related to the sale.
 
-8. Day Category: Categorizes the day of the transaction, possibly indicating weekdays, weekends, or other relevant categories.
+* Day Category: Categorizes the day of the transaction, possibly indicating weekdays, weekends, or other relevant categories.
 
-9. Revenue: The total income generated from the sale of products or services.
+* Revenue: The total income generated from the sale of products or services.
 
-10. Units Sold: The quantity of products sold in the transaction.
+* Units Sold: The quantity of products sold in the transaction.
  
-11. Transaction category: classify transactions based on various attributes, such as product type, service provided, customer segment, or sales channel (such as online or in-store)
+* Transaction category: classify transactions based on various attributes, such as product type, service provided, customer segment, or sales channel (such as online or in-store)
     
 ### Project Objectives
 _ _ _
