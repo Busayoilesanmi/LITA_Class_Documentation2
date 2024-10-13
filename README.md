@@ -12,7 +12,7 @@ By carefully analyzing the data, the goal is to gather actionable insights that 
 _ _ _
 1. Region: Indicates the geographical area where the sales or services occurred.
 
-2.Market: Refers to the specific market or location within the region where the transactions took place.
+2. Market: Refers to the specific market or location within the region where the transactions took place.
 
 3. Store: Represents the specific store or outlet where the sales occurred.
 
@@ -26,7 +26,7 @@ _ _ _
 
 8. Day Category: Categorizes the day of the transaction, possibly indicating weekdays, weekends, or other relevant categories.
 
-9. 10. Revenue: The total income generated from the sale of products or services.
+9. Revenue: The total income generated from the sale of products or services.
 
 10. Units Sold: The quantity of products sold in the transaction.
  
@@ -36,7 +36,7 @@ _ _ _
 _ _ _
 This project aims to achieve the following analysis goals:
 
-1. Revenue: This analyzes the total revenue generated from sales in different geographical regions.
+1. Revenue by Region: This analyzes the total revenue generated from sales in different geographical regions.
   
 2. Revenue by Units Sold: This determine the total revenue from number of units sold for each product over a specific period.
 
@@ -55,3 +55,9 @@ This project aims to achieve the following analysis goals:
 9. Store by Units Sold: This analysis evaluates the total number of units sold at each individual store or retail outlet.
 
 10. Day Category by Units Sold: This analysis examines the number of units sold categorized by different types of days (e.g., weekdays, weekends, holidays).
+
+### Key Metrics
+_ _ _
+~Revenue: Sum of revenue column, grouped by region 
+
+United 
