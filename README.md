@@ -115,7 +115,4 @@ _ _ _
 ![Screenshot 2024-10-13 171403](https://github.com/user-attachments/assets/7ec6e3e3-0e6f-468b-a258-13f2d50b61b8)
 
 
-
-
-
 ![Screenshot 2024-10-13 1741242](https://github.com/user-attachments/assets/90790633-b602-4fee-bcaf-3490f20ffab1)
