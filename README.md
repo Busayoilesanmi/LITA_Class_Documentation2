@@ -113,9 +113,11 @@ _ _ _
 - - -
 ### Pivotal Tables:
 
+
+![Screenshot 2024-10-14 003659](https://github.com/user-attachments/assets/6afa2bb5-4f37-4a22-925d-e7112d0840b4)
+
+
 ![Screenshot 2024-10-13 171403](https://github.com/user-attachments/assets/7ec6e3e3-0e6f-468b-a258-13f2d50b61b8)
-
-
 
 
 _ _ _
@@ -126,12 +128,6 @@ _ _ _
 
 ![Screenshot 2024-10-13 221807](https://github.com/user-attachments/assets/6a653fe2-edd7-40e1-b83a-d20863c3aa26)
 
-
-![Screenshot 2024-10-13 221841](https://github.com/user-attachments/assets/cb8b8132-0d40-4585-8254-c09514c29198)
-
-
-![Screenshot 2024-10-13 221911](https://github.com/user-attachments/assets/16c07ccd-8bca-4d6a-b6e1-450a2d1bc35f)
-
 _ _ _
 ### Filter Chart for Year 2015:
 
@@ -140,12 +136,6 @@ _ _ _
 
 ![Screenshot 2024-10-13 221005](https://github.com/user-attachments/assets/bd626f47-467e-40cd-9d47-f4fce738a18d)
 
-
-![Screenshot 2024-10-13 221105](https://github.com/user-attachments/assets/6370e8e3-2c08-47ec-8232-c3741d788b8a)
-
-
-![Screenshot 2024-10-13 221153](https://github.com/user-attachments/assets/8cf6559e-661e-4d7e-867b-a7ac79817f77)
-
 ---
 ### Inference:
 
@@ -153,41 +143,49 @@ _ _ _
 
 *2. Regional Performance Insights:* 
 
-* North East:*
-2014: This region likely had strong revenue performance.
-2015: The North East remains a top-performing region, but there may have been a slight dip compared to 2014. It still leads in revenue compared to other regions.
-Overall: The region continues to perform well but might have experienced a marginal decrease in total revenue.
+* North East: 2014: This region likely had strong revenue performance.
+  
+  2015: The North East remains a top-performing region, but there may have been a slight dip compared to 2014. It still leads in revenue compared to other regions.
 
-* South West:
-2014: Another region that likely had solid revenue contributions in 2014.
-2015: In 2015, South West shows a strong performance, closely trailing North East in total revenue.
-Overall: This region shows consistent high revenue generation, but like North East, it may also have experienced a slight decline from the previous year.
+  Overall: The region continues to perform well but might have experienced a marginal decrease in total revenue.
 
-* South South:
-2014: This region probably had moderate revenue performance.
-2015: In 2015, South South continues to perform moderately, but it doesn't reach the levels of the North East or South West.
-Overall: There seems to be a small decline in total revenue, reflecting possible challenges in maintaining or growing sales.
+* South West: 2014: Another region that likely had solid revenue contributions in 2014.
+ 
+  2015: In 2015, South West shows a strong performance, closely trailing North East in total revenue.
+  
+  Overall: This region shows consistent high revenue generation, but like North East, it may also have experienced a slight decline from the previous year.
 
-* South East:
-2014: Likely a mid-performing region in terms of revenue.
-2015: Revenue from the South East region has decreased in 2015 compared to 2014.
-Overall: The South East experienced a noticeable drop in revenue, possibly signaling market or operational challenges.
+* South South: 2014: This region probably had moderate revenue performance.
+ 
+  2015: In 2015, South South continues to perform moderately, but it doesn't reach the levels of the North East or South West.
+  
+  Overall: There seems to be a small decline in total revenue, reflecting possible challenges in maintaining or growing sales.
 
-* North West:
-2014: Revenue generation was likely on the lower side in 2014.
-2015: The North West has a lower revenue performance in 2015 compared to regions like the North East or South West.
-Overall: This region shows a decline in total revenue, continuing to underperform relative to other regions.
+* South East: 2014: Likely a mid-performing region in terms of revenue.
+  
+  2015: Revenue from the South East region has decreased in 2015 compared to 2014.
 
-* North Central:
-2014: Likely the lowest-performing region in 2014.
-2015: North Central remains the lowest revenue-generating region in 2015.
-Overall: The region sees the most significant decline in revenue, showing a continuous struggle in sales performance.
+  Overall: The South East experienced a noticeable drop in revenue, possibly signaling market or operational challenges.
 
-*3. Revenue by Model:* The model labeled 3002P generates the highest revenue, with a steep decline for subsequent models. After 3002P, there is a sharp drop in revenue, with 4500C and 2500C performing moderately, while the later models, such as 4055T, show much lower revenue.
+* North West: 2014: Revenue generation was likely on the lower side in 2014.
+  
+  2015: The North West has a lower revenue performance in 2015 compared to regions like the North East or South West.
+
+  Overall: This region shows a decline in total revenue, continuing to underperform relative to other regions.
+
+* North Central: 2014: Likely the lowest-performing region in 2014.
+  
+  2015: North Central remains the lowest revenue-generating region in 2015.
+
+  Overall: The region sees the most significant decline in revenue, showing a continuous struggle in sales performance.
+
+*3. Revenue by Model:* The model labeled 3002P generates the highest revenue, with a steep decline for subsequent models. After 3002P, there is a sharp drop in revenue, with 4500C and 
+    2500C performing moderately, while the later models, such as 4055T, show much lower revenue.
 
 *4. Model Performance Insights:* The data suggests that a few models dominate sales, while many other models contribute minimally to total revenue.
 
-*5. Revenue Distribution*: This clustered column chart indicates that from 2014 to 2015, North East and South West regions consistently generated the highest revenue, maintaining their leadership positions. However, there was a noticeable decline in revenue across all regions during this period. North Central remained the lowest-performing region, reflecting the greatest revenue gap compared to others. The decline in revenue across regions may be attributed to shifting market dynamics or increased competition, which could have impacted sales growth. Additionally, potential economic challenges or supply chain issues might have contributed to the reduced performance in key regions during 2015.
+*5. Revenue Distribution*: This clustered column chart indicates that from 2014 to 2015, North East and South West regions consistently generated the highest revenue, maintaining their
+leadership positions. However, there was a noticeable decline in revenue across all regions during this period. North Central remained the lowest-performing region, reflecting the greatest revenue gap compared to others. The decline in revenue across regions may be attributed to shifting market dynamics or increased competition, which could have impacted sales growth. Additionally, potential economic challenges or supply chain issues might have contributed to the reduced performance in key regions during 2015.
    
 *6. Strategic Implication:* The decline in revenue across regions highlights the necessity for a strategic reassessment. It’s crucial for the company to dig deeper into the reasons behind this drop, which may include shifts in consumer behavior and various economic factors.
 Market Analysis and Adaptation:
@@ -204,26 +202,38 @@ Investing in Training and Resources:
  - Providing additional training and resources to sales teams in lower-performing regions can equip them with better tools and techniques to engage customers effectively. Investing in employee development can lead to improved sales techniques and customer interactions.
 
   
- - Diversifying Product Lines:Evaluating and diversifying product lines to cater to the unique preferences of different regions can help capture a wider audience. Introducing new products that resonate with local market trends may stimulate sales growth.
+ - Diversifying Product Lines: Evaluating and diversifying product lines to cater to the unique preferences of different regions can help capture a wider audience. Introducing new products that resonate with local market trends may stimulate sales growth.
 
 ### Conclusion
 
 The revenue from 2014 to 2015 shows a concerning trend of declining revenue across regions, suggesting that the company may face significant challenges in maintaining its market position. This decline not only reflects potential issues with consumer engagement and economic pressures but also indicates the need for a thorough strategic reassessment. To address these challenges, it is essential for the company to investigate the underlying causes of this revenue drop, adapt its marketing strategies, and strengthen its engagement with customers. By taking proactive steps to understand and respond to market dynamics, the company can work towards reversing this trend and fostering sustainable growth in the future.
 
+_ _ _
+### 2. Region by Units Sold
+- - -
+### Pivotal Tables:
+
+![Screenshot 2024-10-14 010151](https://github.com/user-attachments/assets/73b867c7-5d73-4f43-bc4f-646057cfc634)
+
+_ _ _
+### Filter Chart for Year 2014:
+
+![Screenshot 2024-10-14 012243](https://github.com/user-attachments/assets/cb8ee358-b4d7-4349-bfa1-fd3832323b50)
 
 
+![Screenshot 2024-10-14 012402](https://github.com/user-attachments/assets/abda14e8-6fc5-4705-ba90-9590e2d21d4e)
+
+---
+### Inference:
 
 
-   
+_ _ _
+### Filter Chart for Year 2015:
+
+![Screenshot 2024-10-14 012900](https://github.com/user-attachments/assets/e756b376-8d4e-4c8b-87b9-7cf1d8ef7b5e)
 
 
+![Screenshot 2024-10-14 013035](https://github.com/user-attachments/assets/3f197ada-f38b-42d9-8dd5-d1c108590293)
 
-
-
-
-
-
-Summary:
-Most regions saw a decline in revenue from 2014 to 2015. While North East and South West continue to lead in revenue, they also show some decrease. Other regions, like South East, North West, and North Central, experienced more substantial drops in revenue, indicating either market saturation or external challenges affecting sales.
 
 
