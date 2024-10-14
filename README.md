@@ -258,6 +258,18 @@ _ _ _
   * North Central: 2014 to 2015: The North Central region was the weakest performer, with the lowest sales figures across both years. The decline in units sold indicates ongoing 
     difficulties in capturing a significant market share in this region.
 
+*3. Sales Distribution:* This clustered column chart reveals that from 2014 to 2015, the North East and South West regions consistently led in total units sold, 
+    reflecting their dominant market positions. However, a decline in sales was evident across all regions during this period. The North Central region remained the lowest in terms of 
+    units sold, showcasing a significant gap compared to other regions. The drop in sales may be linked to changing consumer preferences, intensifying competition, or broader market 
+    conditions. Additionally, possible logistical or supply chain disruptions could have further influenced the overall reduction in sales across key regions in 2015.
+
+
+
+
+
+
+
+
 
 
 
