@@ -201,9 +201,8 @@ _ _ _
 ### Conclusion
 
 The revenue from 2014 to 2015 shows a concerning trend of declining revenue across regions, suggesting that the company may face significant challenges in maintaining its market position. This decline not only reflects potential issues with consumer engagement and economic pressures but also indicates the need for a thorough strategic reassessment. To address these challenges, it is essential for the company to investigate the underlying causes of this revenue drop, adapt its marketing strategies, and strengthen its engagement with customers. By taking proactive steps to understand and respond to market dynamics, the company can work towards reversing this trend and fostering sustainable growth in the future.
-
 _ _ _
-### 2. Region by Units Sold
+### 2. Units Sold by Region
 - - -
 ### Pivotal Tables:
 
@@ -278,7 +277,17 @@ _ _ _
 
 ### Conclusion
 In conclusion, the decline in units sold across regions from 2014 to 2015 points to potential challenges in market demand, competition, and possibly operational inefficiencies. To regain growth, the company needs to focus on refining its regional strategies, ensuring its products remain relevant, and addressing any logistical issues that might be affecting performance. By taking a data-driven approach and responding to these challenges, there is potential to reverse the downward trend and improve overall sales.
+_ _ _
+### 3. Average Revenue by Region
+- - -
+### Pivotal Tables:
+![image](https://github.com/user-attachments/assets/3c3815fe-657d-408b-ad28-cc50567917b8)
 
+_ _ _
+### Filter Chart for Year 2014:
+
+_ _ _
+### Filter Chart for Year 2015:
 
 
 
