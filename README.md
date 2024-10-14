@@ -79,27 +79,13 @@ _ _ _
 ### How to Use the Data
 * Revenue by Region: Group the data by region and sum the revenue column. This provide an overview of how much revenue each region is generating
 
-* Revenue by Units Sold: Group the data by Product and sum the units Sold columns. This determines the total revenue generated from the number of units sold for each product over a 
-  period.
-
-* Revenue by Market: Group the data by Market Segment and sum the Revenue column. This analysis looks at the revenue generated from different market segments.
-
 * Revenue by Model: Group the data by Product Model and sum the Revenue column. This focuses on the revenue generated from different product models (e.g., various versions of a product).
-
-* Revenue by Store: Group the data by Store and sum the Revenue column. This aspect evaluates the revenue generated at each individual store or retail outlet.
-
-* Revenue by Line of Business: Group the data by Line of Business and sum the Revenue column. This analysis categorizes revenue based on different lines of business (e.g., services, 
-  product sales).
 
 * Region by Units Sold: Group the data by Region and sum the Units Sold column. This analysis examines the number of units sold across different geographical regions (e.g., states, 
   countries, or specific areas).
 
-* Region by Average Revenue: Group the data by Region and calculate the average of the Revenue column. This calculates the revenue generated per unit sold in a specific region.
-
-* Store by Units Sold: Group the data by Store and sum the Units Sold column. This analysis evaluates the total number of units sold at each individual store or retail outlet.
-
-* Day Category by Units Sold: Group the data by Day Category (e.g., Weekdays, Weekends) and sum the Units Sold column. This analysis examines the number of units sold categorized by 
-  different types of days.
+* Average revenue by Region: Group the data by region and sum of Average revenue column. This analysis examines the average revenue generated per unit sold over a 
+  period across different regions, products, or customer segments.
 
 ### Formula Used
 _ _ _
