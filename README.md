@@ -240,6 +240,24 @@ _ _ _
 *1. Overall Sales Growth:* There is a noticeable decline in the number of units sold across multiple regions between 2014 and 2015. This suggests possible challenges in sales performance or changes in market conditions that may have affected overall sales volume.
 
 *2. Regional Performance Insights:* 
+  * North East: 2014 to 2015: The North East remained one of the top-performing regions but showed a slight decline in sales. The reduction in units sold and revenue might indicate 
+    potential market saturation or changing customer preferences.
+    
+  * South West: 2014 to 2015: Similar to the North East, the South West also experienced a decline in performance, though it continues to generate strong sales overall. This suggests 
+    that while the region is still vital, there might be emerging challenges in maintaining growth.
+ 
+  * South South: 2014 to 2015: The South South region exhibited moderate sales in both years, but there was a noticeable decrease in total units sold in 2015. This could reflect 
+    shifting demand or economic factors affecting consumers' purchasing power.
+
+  * South East: 2014 to 2015: Sales in the South East showed a clear decline. This region underperformed relative to others, indicating potential issues such as insufficient market 
+    engagement, competition, or lower demand.
+    
+   * North West: 2014 to 2015: The North West continued to show low sales performance, with a further dip in 2015. This consistent underperformance may suggest structural challenges in 
+     the region, such as poor market penetration or limited product appeal.
+     
+  * North Central: 2014 to 2015: The North Central region was the weakest performer, with the lowest sales figures across both years. The decline in units sold indicates ongoing 
+    difficulties in capturing a significant market share in this region.
+
 
 
 
