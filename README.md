@@ -223,10 +223,6 @@ _ _ _
 
 ![Screenshot 2024-10-14 012402](https://github.com/user-attachments/assets/abda14e8-6fc5-4705-ba90-9590e2d21d4e)
 
----
-### Inference:
-
-
 _ _ _
 ### Filter Chart for Year 2015:
 
@@ -234,6 +230,18 @@ _ _ _
 
 
 ![Screenshot 2024-10-14 013035](https://github.com/user-attachments/assets/3f197ada-f38b-42d9-8dd5-d1c108590293)
+
+
+---
+### Inference:
+*1. Overall Sales Growth:* There is a noticeable decline in the number of units sold across multiple regions between 2014 and 2015. This suggests possible challenges in sales performance or changes in market conditions that may have affected overall sales volume.
+
+*2. Regional Performance Insights:* 
+
+
+
+
+
 
 
 
